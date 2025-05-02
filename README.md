@@ -11,4 +11,4 @@ Automatically quit all open apps on macOS at a scheduled time every day.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/mac-daily-cleanup.git
+   git clone https://github.com/vishomallaoli/mac-daily-cleanup.git
